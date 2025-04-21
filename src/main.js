@@ -48,7 +48,7 @@ import {
 } from "three/tsl";
 import { RoomEnvironment } from "three/examples/jsm/environments/RoomEnvironment.js";
 import { ParametricGeometry } from "three/addons/geometries/ParametricGeometry.js";
-import tt from "/spiral/tru.png";
+import tt from "/tru.png";
 import palletes from "nice-color-palettes";
 
 let pallete = palletes[Math.floor(Math.random() * palletes.length)];
